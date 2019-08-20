@@ -1,2 +1,1 @@
-# mmall
-mmall for learning
+mmall_learning
